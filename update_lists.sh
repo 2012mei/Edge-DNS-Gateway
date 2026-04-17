@@ -31,12 +31,12 @@ extract_domains() {
 
 echo "Downloading and processing blocklists..."
 curl -fsSL --max-time 60 \
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/light.txt \
+https://github.com/cbuijs/hagezi/raw/refs/heads/main/lists/light/domains.top-n \
 | extract_domains > "$BLOCK_TMP"
 
 echo "Downloading and processing allowlists..."
 curl -fsSL --max-time 60 \
-https://oisd.nl/excludes \
+https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/domains/whitelist-referral.txt \
 | extract_domains > "$ALLOW_TMP"
 
 # Di chuyển file tmp vào thư mục đích
