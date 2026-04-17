@@ -22,7 +22,7 @@ jobs:
           ./update_lists.sh
 
       - name: Commit and Push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "Auto-update: blocklists and allowlists"
           file_pattern: 'rules/*.txt'
