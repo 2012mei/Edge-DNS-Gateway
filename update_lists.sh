@@ -36,7 +36,7 @@ https://github.com/cbuijs/hagezi/raw/refs/heads/main/lists/light/domains.top-n \
 
 echo "Downloading and processing allowlists..."
 curl -fsSL --max-time 60 \
-https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/domains/whitelist-referral.txt \
+https://github.com/hg1978/Pihole-Whitelist/raw/refs/heads/main/PiholeAllowlist.txt \
 | extract_domains > "$ALLOW_TMP"
 
 # Di chuyển file tmp vào thư mục đích
