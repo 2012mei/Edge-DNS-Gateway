@@ -31,7 +31,7 @@ extract_domains() {
 
 echo "Downloading and processing blocklists..."
 curl -fsSL --max-time 60 \
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts \
+https://badmojr.github.io/1Hosts/Lite/domains.txt \
 | extract_domains > "$BLOCK_TMP"
 
 echo "Downloading and processing allowlists..."
