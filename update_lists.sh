@@ -31,12 +31,12 @@ extract_domains() {
 
 echo "Downloading and processing blocklists..."
 curl -fsSL --max-time 60 \
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/light-onlydomains.txt \
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/multi.txt \
 | extract_domains > "$BLOCK_TMP"
 
 echo "Downloading and processing allowlists..."
 curl -fsSL --max-time 60 \
-https://github.com/hg1978/Pihole-Whitelist/raw/refs/heads/main/PiholeAllowlist.txt \
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/whitelist-referral.txt \
 | extract_domains > "$ALLOW_TMP"
 
 # Di chuyển file tmp vào thư mục đích
