@@ -1117,6 +1117,7 @@ sites.hscoscdn-eu1.net
 26743233.sites.hscoscdn-eu1.net
 27001291.sites.hscoscdn-eu1.net
 27031067.sites.hscoscdn-eu1.net
+27039070.sites.hscoscdn-eu1.net
 27090143.sites.hscoscdn-eu1.net
 27102898.sites.hscoscdn-eu1.net
 5955977.sites.hscoscdn-eu1.net
@@ -1490,6 +1491,7 @@ mkto-abm0229.com
 mkto-cs0007.com
 mkto-d0024.com
 mkto-d0170.com
+mkto-e0014.com
 mkto-e0231.com
 mkto-g0030.com
 mkto-g0180.com
