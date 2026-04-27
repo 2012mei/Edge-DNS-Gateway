@@ -341,6 +341,7 @@ seu2.cleverreach.com
 248553.seu2.cleverreach.com
 251048.seu2.cleverreach.com
 253119.seu2.cleverreach.com
+255310.seu2.cleverreach.com
 256546.seu2.cleverreach.com
 259440.seu2.cleverreach.com
 261826.seu2.cleverreach.com
@@ -510,6 +511,7 @@ open.convertkit-mail.com
 4d40e5c7.open.convertkit-mail.com
 7c2dccff.open.convertkit-mail.com
 8534faf0.open.convertkit-mail.com
+86db75f9.open.convertkit-mail.com
 af5d45b9.open.convertkit-mail.com
 c5e21242.open.convertkit-mail.com
 efba0d60.open.convertkit-mail.com
