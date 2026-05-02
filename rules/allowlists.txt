@@ -252,6 +252,7 @@ seu.cleverreach.com
 seu1.cleverreach.com
 170770.seu1.cleverreach.com
 40076.seu1.cleverreach.com
+40961.seu1.cleverreach.com
 42849.seu1.cleverreach.com
 45870.seu1.cleverreach.com
 94147.47223.seu1.cleverreach.com
@@ -667,6 +668,7 @@ m-kpz.custobar.com
 m-ll23a.custobar.com
 m-nvdxq.custobar.com
 m-nxt.custobar.com
+m-rst.custobar.com
 m-s6iau.custobar.com
 m-sgd5h.custobar.com
 m-so.custobar.com
@@ -1482,6 +1484,7 @@ mkto-ab620130.com
 mkto-ab630019.com
 mkto-ab630033.com
 mkto-ab630144.com
+mkto-ab640171.com
 mkto-ab640193.com
 mkto-ab650006.com
 mkto-ab650097.com
