@@ -112,7 +112,6 @@ aax-eu.amazon.nl
 aax-eu.amazon.pl
 aax-eu.amazon.sa
 aax-eu.amazon.se
-aax-fe.amazon.com
 aax-fe.amazon.sg
 aax-us-east-retail-direct.amazon.com
 aax-us-iad.amazon.com
@@ -168,7 +167,6 @@ beacon.bcn.to
 bdash-tracking.com
 beehiiv.com
 x.bestcheck.de
-link.betclic.com
 l.betrad.com
 bfast.com
 bidminer.com
@@ -1409,6 +1407,7 @@ mkto-ab140048.com
 mkto-ab150013.com
 mkto-ab150224.com
 mkto-ab160143.com
+mkto-ab170094.com
 mkto-ab180008.com
 mkto-ab180024.com
 mkto-ab190076.com
