@@ -368,6 +368,7 @@ seu2.cleverreach.com
 295939.seu2.cleverreach.com
 301449.seu2.cleverreach.com
 304709.seu2.cleverreach.com
+306738.seu2.cleverreach.com
 312066.seu2.cleverreach.com
 313131.seu2.cleverreach.com
 315021.seu2.cleverreach.com
@@ -1153,6 +1154,7 @@ group0.sites.hscoscdn-eu1.net
 25882072.group0.sites.hscoscdn-eu1.net
 26656555.group0.sites.hscoscdn-eu1.net
 27084415.group0.sites.hscoscdn-eu1.net
+27209348.group0.sites.hscoscdn-eu1.net
 341979.group0.sites.hscoscdn-eu1.net
 3887299.group0.sites.hscoscdn-eu1.net
 5956807.group0.sites.hscoscdn-eu1.net
@@ -1562,6 +1564,7 @@ mkto-sj140007.com
 mkto-sj140163.com
 mkto-sj150025.com
 mkto-sj160006.com
+mkto-sj160014.com
 mkto-sj170094.com
 mkto-sj180011.com
 mkto-sj190104.com
