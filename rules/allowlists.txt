@@ -389,6 +389,7 @@ seu2.cleverreach.com
 349715.seu2.cleverreach.com
 350407.seu2.cleverreach.com
 350992.seu2.cleverreach.com
+354870.seu2.cleverreach.com
 354975.seu2.cleverreach.com
 356133.seu2.cleverreach.com
 357748.seu2.cleverreach.com
@@ -609,6 +610,7 @@ open.convertkit-mail4.com
 07494aa4.open.convertkit-mail4.com
 088a5f37.open.convertkit-mail4.com
 0c7d4f8e.open.convertkit-mail4.com
+162809b3.open.convertkit-mail4.com
 2fc9b2f8.open.convertkit-mail4.com
 3c5984bd.open.convertkit-mail4.com
 51ce15f1.open.convertkit-mail4.com
@@ -813,6 +815,7 @@ suite7.emarsys.net
 suite7-cf.emarsys.net
 suite8.emarsys.net
 suite9.emarsys.net
+suite9-cf.emarsys.net
 emjcd.com
 eat.emmasolutions.net
 t.en25.com
@@ -1122,6 +1125,7 @@ sites.hscoscdn-eu1.net
 26213917.sites.hscoscdn-eu1.net
 26247228.sites.hscoscdn-eu1.net
 26282475.sites.hscoscdn-eu1.net
+26502660.sites.hscoscdn-eu1.net
 26544488.sites.hscoscdn-eu1.net
 26556211.sites.hscoscdn-eu1.net
 26609264.sites.hscoscdn-eu1.net
@@ -1146,12 +1150,14 @@ group0.sites.hscoscdn-eu1.net
 145642586.group0.sites.hscoscdn-eu1.net
 145725822.group0.sites.hscoscdn-eu1.net
 145892027.group0.sites.hscoscdn-eu1.net
+146229325.group0.sites.hscoscdn-eu1.net
 146233207.group0.sites.hscoscdn-eu1.net
 146290082.group0.sites.hscoscdn-eu1.net
 146447957.group0.sites.hscoscdn-eu1.net
 25662839.group0.sites.hscoscdn-eu1.net
 25855289.group0.sites.hscoscdn-eu1.net
 25882072.group0.sites.hscoscdn-eu1.net
+26134430.group0.sites.hscoscdn-eu1.net
 26656555.group0.sites.hscoscdn-eu1.net
 27084415.group0.sites.hscoscdn-eu1.net
 27209348.group0.sites.hscoscdn-eu1.net
@@ -1459,11 +1465,13 @@ mkto-ab440098.com
 mkto-ab450015.com
 mkto-ab470148.com
 mkto-ab480014.com
+mkto-ab480015.com
 mkto-ab480059.com
 mkto-ab500015.com
 mkto-ab500174.com
 mkto-ab520004.com
 mkto-ab530057.com
+mkto-ab530192.com
 mkto-ab540059.com
 mkto-ab540186.com
 mkto-ab550041.com
@@ -1514,6 +1522,7 @@ mkto-g0030.com
 mkto-g0180.com
 mkto-h0084.com
 mkto-i0028.com
+mkto-i0206.com
 mkto-j0126.com
 mkto-lon020055.com
 mkto-lon020062.com
@@ -1534,6 +1543,7 @@ mkto-mlm10010008.com
 mkto-mlm10030009.com
 mkto-n0092.com
 mkto-nld1010057.com
+mkto-nld1010079.com
 mkto-nld1010150.com
 mkto-nld1020077.com
 mkto-nld1020173.com
@@ -1570,6 +1580,7 @@ mkto-sj180011.com
 mkto-sj190104.com
 mkto-sj190237.com
 mkto-sj190248.com
+mkto-sj200186.com
 mkto-sj200191.com
 mkto-sj200192.com
 mkto-sj200201.com
@@ -1584,6 +1595,7 @@ mkto-sj250111.com
 mkto-sj250145.com
 mkto-sj250171.com
 mkto-sj250187.com
+mkto-sj270072.com
 mkto-sj270078.com
 mkto-sj270080.com
 mkto-sj270148.com
@@ -2001,7 +2013,6 @@ spxl.ink
 srvto.com
 r.srvtrck.com
 rads.stackoverflow.com
-staticiv.com
 email.streamhub.tech
 tr.strumentimusicali.net
 stvkr.com
